@@ -1,0 +1,14 @@
+.EventMainDiv{
+
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 40px;
+    margin-right: 50px;
+}
+.txt{
+    width: 200px;
+    height: 100px;
+
+
+}

@@ -1,0 +1,39 @@
+.images{
+
+    width: 350px;
+    height: 400px;
+    padding: 50px;
+    transition: transform .2s;
+}
+.images:hover {
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.2);
+}
+.DivIM{
+
+margin-outside: 100px;
+
+}
+
+.Info{
+    display: inline-flex;
+align-items: center;
+    justify-content: center;
+    padding: 40px 40px;
+    margin-right: 50px;
+}
+.InfoL{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 40px;
+    margin-left: 50px;
+}
+.InfoCreater{
+
+
+
+    display: flex;
+    flex-flow: column wrap;
+}
