@@ -13,8 +13,6 @@ class TasksList extends Component {
             <div className="TaskList">
 
                 <section className="tasks">
-
-
                     {
                         this.props.tasks.map((task) => {
                             return <Task task={task}
